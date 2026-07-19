@@ -18,8 +18,8 @@ This repository contains my daily solutions for the [GeeksforGeeks Problem of th
 📦 Geeks-for-Geeks-Problem-of-the-day
  ┣ 📂 2026
  ┃ ┣ 📂 July
- ┃ ┃ ┣ 📜 problem-name-1.cpp
- ┃ ┃ ┗ 📜 problem-name-2.java
+ ┃ ┃ ┣ 📜 Date problem-name.java
+ ┃ ┃ ┗ 📜 Date problem-name.java
  ┃ ┗ 📂 August
- ┃   ┗ 📜 problem-name-3.py
+ ┃   ┗ 📜 Date problem-name.java
  ┗ 📜 README.md
